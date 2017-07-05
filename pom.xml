@@ -13,7 +13,7 @@
 	</properties>
 
 	<dependencies>
-		<!--common starting    -->
+		<!--common start-->
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
